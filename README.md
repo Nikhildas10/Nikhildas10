@@ -76,8 +76,6 @@
 
 ### 🚀 Let's Connect & Collaborate!
 
-Thanks for visiting my profile. Feel free to explore my repositories or get in touch!
+Feel free to explore my repositories or get in touch!
 
 ---
-
-<!-- You can further customize with visitor counters, pinned repos, or badges -->
