@@ -14,7 +14,7 @@
 ---
 
 ## 🌱 Currently Learning  
-> Java backend development, DevOps, and cloud scalability
+> Golang backend development, DevOps, and cloud scalability
 
 ---
 
